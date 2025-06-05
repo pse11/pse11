@@ -1,7 +1,7 @@
 <img width="1100" src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=90&width=100%&section=header&fontAlign=68&fontAlignY=36"/>
 
 <div align="center">
- <img align="right" src="https://github-readme-stats.vercel.app/api?username=pse11&show_icons=true&theme=radical"/>
+ <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=pse11&show_icons=true&theme=radical"/>
  
  <h3>:rocket:SANGEUN'S GITHUB:rocket:</h3>
 
@@ -28,7 +28,7 @@
 
 <br />
 
-<img align="left" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pse11&theme=transparent&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=10"/></a>
+<img align="left" width="50%" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pse11&theme=transparent&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=10"/></a>
 
 <div align="center">
 
