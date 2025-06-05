@@ -1,4 +1,4 @@
-<img width="1100" src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=90&width=100%&section=header&fontAlign=68&fontAlignY=36"/>
+<img width="1100" src="https://capsule-render.vercel.app/api?type=waving&color=0:EBF4F6,50:3ABEF9,100:77CDFF&height=100&width=100%&section=header&fontAlign=68&fontAlignY=36"/>
 
 <div align="center">
  <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=pse11&show_icons=true&theme=radical"/>
@@ -42,5 +42,5 @@
  <br>
  <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"> 
 </div>
-<img width="1100" src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=80&width=100%&section=footer&fontAlign=68&fontAlignY=36"/>
+<!--<img width="1100" src="https://capsule-render.vercel.app/api?type=waving&color=0:FDFAF6,50:99BC85,100:6A9C89&height=80&width=100%&section=footer&fontAlign=68&fontAlignY=36"/>-->
 
